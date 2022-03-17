@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Racim Benkaddour</h1>
 
 <h3 align="center">Develop a passion for learning. If you do, you will never cease to grow. 📌 Algeria</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/633992735124357120/954070953602715658/programming.gif")
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cizr&label=Profile%20views&color=0e75b6&style=flat" alt="cizr" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cizr" alt="cizr" /></a> </p>
 
 - 🔭 I’m currently studying **at university.**
 
