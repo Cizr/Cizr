@@ -4,6 +4,8 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cizr&label=Profile%20views&color=0e75b6&style=flat" alt="cizr" /> </p>
+<img align="right" width="400" height="300" src="https://i.pinimg.com/originals/82/f4/5e/82f45ed2713db138b40d218b43a3f203.jpg">
+
 
 
 - 🔭 I’m currently studying **at university.**
