@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently studying **at university.**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 Learning **Data Structures and Algorithms.**
 
 - 📝 I regularly write about **politics & dark fantasies**
 
