@@ -8,13 +8,13 @@
 
 
 
-- 🔭 I’m currently studying **at university.**
+- 🔭 Almost Done With ** university.**
 
-- 🌱 Learning **Data Structures and Algorithms.**
+- 🌱 Learning **Gaming development**
 
 - 📝 I regularly write about **politics & dark fantasies**
 
-- 💬 Ask me about **🌌Astronomy,Gaming & Hardware**
+- 💬 Ask me about **🌌Astronomy & Gaming**
 
 - 📫 How to reach me **benkaddourmed54@gmail.com**
 
