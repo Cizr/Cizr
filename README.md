@@ -8,7 +8,7 @@
 
 
 
-- 🔭 Almost Done With ** university.**
+- 🔭 Almost Done With **University.**
 
 - 🌱 Learning **Gaming development**
 
