@@ -1,16 +1,9 @@
-<h1 align="center">Hi 👋, I'm Racim Benkaddour</h1>
-
-<h3 align="center">Develop a passion for learning. If you do, you will never cease to grow. 📌 Algeria</h3>
-
-<img align="right" width="400" height="300" src="https://i.pinimg.com/originals/82/f4/5e/82f45ed2713db138b40d218b43a3f203.jpg">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cizr&label=Profile%20views&color=0e75b6&style=flat" alt="cizr" /> </p>
+<h1 align="center">Hello 👋, I'm Racim Benkaddour</h1>
 
 
 
 
-- 🔭 Almost Done With **University.**
-
-- 🌱 Learning **Gaming development*
+- Learning **Gaming development**
 
 - 📫 How to reach me **benkaddourmed54@gmail.com**
 
