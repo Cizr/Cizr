@@ -10,15 +10,11 @@
 
 - 🔭 Almost Done With **University.**
 
-- 🌱 Learning **Gaming development**
-
-- 📝 I regularly write about **politics & dark fantasies**
-
-- 💬 Ask me about **🌌Astronomy & Gaming**
+- 🌱 Learning **Gaming development*
 
 - 📫 How to reach me **benkaddourmed54@gmail.com**
 
-- ⚡ Fun fact **im either at the gym or playing games and yes i do watch anime.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
