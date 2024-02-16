@@ -12,4 +12,6 @@ Game Dev enthusiast and novice software engineer, on a journey of continuous lea
 📚 For more insights and articles, you can check out my profile on Medium at [https://medium.com/@benkaddourmed54]. Explore in-depth blogs and stay tuned for exciting updates!  
   
 ---
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Cizr&&style=flat-square" align="center" />
+</div> 
