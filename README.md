@@ -1,7 +1,6 @@
 
 
-Game Dev enthusiast and novice software engineer, on a journey of continuous learning and growth.
-
+SE/DevOps
 ## Recent Blog Posts  
 
 ### Medium  
